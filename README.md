@@ -9,7 +9,7 @@ Assignment+2: Corresponde a la tarea de la semana dos del curso, en esta tarea s
 se realiza una limpieza básica y se responden ocho preguntas incluidas en el notebook. Esta es una tarea básica de manipulación de datos
 con la librería Pandas.
 
-Assignment+3: Este notebook corresponde a la semana tres del curso, en él se practica funciones más avanzada de la Liberia Pandas, como 
+Assignment+3: Este notebook corresponde a la semana tres del curso, en él se practica funciones más avanzada de la libreria Pandas, como 
 son los métodos: merge, map, apply, agg, entre otros, también se hace una limpieza de datos más exhaustiva, y se responden un total de trece
 preguntas planteadas dentro del notebook.
 
