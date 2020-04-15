@@ -2,7 +2,7 @@
 
 En este repositorio se guardan mis proyectos realizado durante el curso "Introduction to Data Science in Python", impartido por la **Universidad de Michigan** en la plataforma Coursera.
 
-El repositorio cuenta con tres archivos de código, correspondientes a dos tareas y un proyecto final.
+### El repositorio cuenta con tres archivos de código, correspondientes a dos tareas y un proyecto final.
 
 "[Assignment+2](https://github.com/Mahonry/DataManipulation-Pandas/blob/master/Assignment%2B2.ipynb)": Corresponde a la tarea de la semana dos del curso, en esta tarea se manipula un data set de medallas olímpicas,
 se realiza una limpieza básica y se responden ocho preguntas incluidas en el notebook. Esta es una tarea básica de manipulación de datos
